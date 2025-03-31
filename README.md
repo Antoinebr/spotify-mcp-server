@@ -220,6 +220,8 @@ To use your MCP server with Claude Desktop, add it to your Claude configuration:
 }
 ```
 
+Please note that the value `spotify-mcp-server/build/index.js` depends on the location where you cloned the repository.
+
 For Cursor, go to the MCP tab in `Cursor Settings` (command + shift + J). Add a server with this command:
 
 ```bash
